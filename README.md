@@ -28,6 +28,6 @@
 
 如果发现文档中有什么错误遗漏的地方，欢迎批评指正。  
 
-- Github: <https://github.com/hui6075>
+- Github: <https://github.com/hupan-seu>
 - Email: 747333016@qq.com
 
